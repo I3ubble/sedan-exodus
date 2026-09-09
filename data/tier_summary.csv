@@ -1,0 +1,5 @@
+tier,scope,avg_decline_pct,n_models
+luxury,all_models,-67.11333333333333,15
+mainstream,all_models,-58.61666666666667,6
+luxury,excl_discontinued,-64.83571428571429,14
+mainstream,excl_discontinued,-50.72,5

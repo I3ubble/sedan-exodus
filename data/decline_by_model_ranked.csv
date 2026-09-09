@@ -1,0 +1,22 @@
+tier,brand,model,pct_change_peak_to_latest,tier_rank,discontinued
+luxury,Audi,A4,-99.0,1,1
+luxury,Lexus,LS,-96.9,2,1
+luxury,Mercedes-Benz,E-Class,-84.2,3,0
+luxury,Audi,A8,-77.8,4,1
+luxury,Mercedes-Benz,S-Class,-77.1,5,0
+luxury,BMW,3 Series,-77.0,6,0
+luxury,Genesis,G80,-76.4,7,0
+luxury,Mercedes-Benz,C-Class,-72.3,8,0
+luxury,Lexus,IS,-64.1,9,0
+luxury,Genesis,G90,-62.3,10,0
+luxury,Audi,A6,-56.2,11,0
+luxury,BMW,5 Series,-55.8,12,0
+luxury,Lexus,ES,-51.8,13,0
+luxury,BMW,7 Series,-37.8,14,0
+luxury,Genesis,G70,-18.0,15,0
+mainstream,Volkswagen,Passat,-98.1,1,1
+mainstream,Hyundai,Sonata,-73.9,2,0
+mainstream,Volkswagen,Jetta,-70.6,3,0
+mainstream,Hyundai,Elantra,-40.2,4,0
+mainstream,Toyota,Corolla,-36.0,5,0
+mainstream,Toyota,Camry,-32.9,6,0
