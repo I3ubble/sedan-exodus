@@ -58,7 +58,7 @@ Pairing by parent company controls for at least some of the confounding factors 
 
 - **[GoodCarBadCar.net](https://www.goodcarbadcar.net/)**: US and Canada annual sales figures, 2004/2005–2025, collected per-model from each nameplate's dedicated sales-figures page.
 
-20 models across 8 brands, 414 rows total:
+21 models across 8 brands, 414 rows total:
 
 - **Luxury:** Lexus IS/ES/LS, BMW 3/5/7 Series, Mercedes-Benz C/E/S-Class, Genesis G70/G80/G90, Audi A4/A6/A8
 - **Mainstream:** Toyota Camry/Corolla, Hyundai Sonata/Elantra, Volkswagen Jetta/Passat
